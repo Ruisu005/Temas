@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temas</string>
+    <string-array name="theme_names">
+        <item>Claro</item>
+        <item>Oscuro</item>
+        <item>Ciberpunk</item>
+        <item>Neon</item>
+    </string-array>
+</resources>
